@@ -1,0 +1,10 @@
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\bin\Debug\LaboBILibrary.dll.config
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\bin\Debug\LaboBILibrary.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\bin\Debug\LaboBILibrary.pdb
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\bin\Debug\EntityFramework.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\bin\Debug\EntityFramework.xml
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\obj\Debug\LaboBILibrary.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\obj\Debug\LaboBILibrary.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\LaboBILibrary\obj\Debug\LaboBILibrary.pdb

@@ -1,0 +1,14 @@
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\EntityFramework.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\LaboBILibrary.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\LaboBILibrary.pdb
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\EntityFramework.xml
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Maxime\Documents\IG\3eme\BIScholtes\LaboBILibrary\UnitTestProject\obj\Debug\UnitTestProject.pdb
